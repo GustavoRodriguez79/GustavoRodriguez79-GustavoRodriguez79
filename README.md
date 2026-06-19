@@ -48,6 +48,13 @@
 
 > Tecnicatura Universitaria en Programación — UTN San Rafael
 
+### 🗂️ Proyectos destacados:
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [gestor-gastos](https://github.com/GustavoRodriguez79/gestor-gastos) | API REST para gestión de gastos personales con frontend web | Python · FastAPI · PostgreSQL · HTML/CSS/JS |
+
+
 ### 📫 Conecta conmigo:
 
 [![GitHub](https://img.shields.io/badge/GitHub-GustavoRodriguez79-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GustavoRodriguez79)
