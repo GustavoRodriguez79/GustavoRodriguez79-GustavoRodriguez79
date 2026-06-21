@@ -18,7 +18,7 @@
 
 
 ### 🚀 Lenguajes más usados:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRodriguez79&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRodriguez79&layout=compact&theme=dark&cache_seconds=1)
 
 
 ### 🔧 Stack Tecnológico:
