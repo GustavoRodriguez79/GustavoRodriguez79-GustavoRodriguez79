@@ -14,7 +14,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=GustavoRodriguez79&theme=radical&hide_border=true)
 
 ### 📈 Actividad:
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoRodriguez79&theme=react-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRodriguez79&layout=compact&theme=dark&cache_seconds=1)
 
 
 ### 🚀 Lenguajes más usados:
