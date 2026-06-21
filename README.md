@@ -1,26 +1,23 @@
-
 # 👋 Hola, soy Gustavo Rodriguez 
 "Mi perfil profesional de GitHub"
-
+ 
 ## 🎓 Estudiante de Tecnicatura en Programación
 ### Universidad Tecnológica Nacional - Sede San Rafael
-
+ 
 ## 📊 Mis estadísticas de GitHub:
-
+ 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoRodriguez79&show_icons=true&theme=radical&hide_title=true)
-
+ 
 ### 🔥 Racha de commits:
 ![GitHub Streak](https://streak-stats.demolab.com?user=GustavoRodriguez79&theme=radical&hide_border=true)
-
+ 
 ### 📈 Actividad:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRodriguez79&layout=compact&theme=dark&cache_seconds=1)
-
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoRodriguez79&theme=react-dark)
+ 
 ### 🚀 Lenguajes más usados:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRodriguez79&layout=compact&theme=dark&cache_seconds=1)
-
-
+ 
 ### 🔧 Stack Tecnológico:
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" title="Sass"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="Visual Studio Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" title="FastAPI"/>
@@ -48,10 +45,21 @@
  
 ### 🗂️ Proyectos destacados:
  
+#### 👤 Proyectos personales
+ 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
 | [gestor-gastos](https://github.com/GustavoRodriguez79/gestor-gastos) | API REST para gestión de gastos personales con frontend web | Python · FastAPI · PostgreSQL · HTML/CSS/JS |
 | [Portafolio Web](https://portafolio-web-garodriguez-79.netlify.app/) | Portafolio personal responsive con secciones de proyectos y contacto | HTML · CSS · JavaScript |
+ 
+#### 👥 Proyectos grupales — ByteNine · UTN San Rafael
+ 
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [Actividades 2° Semestre](https://github.com/HotCode2025/ByteNine-Segundo-Semestre) | Actividades y ejercicios grupales del segundo semestre | Python · Java · JavaScript |
+| [PI 2° Semestre](https://github.com/HotCode2025/PI_SegundoSemestre-ByteNine) | Proyecto integrador del segundo semestre — equipo ByteNine | Python · MySQL · HTML/CSS |
+| [Actividades 3° Semestre](https://github.com/HotCode2025/ByteNine-Tercer-Semestre) | Actividades y ejercicios grupales del tercer semestre | Python · Java · PostgreSQL |
+| [PI 3° Semestre](https://github.com/HotCode2025/PI_TercerSemestre-ByteNine) | Proyecto integrador del tercer semestre — sistema de gestión médica | Python · PostgreSQL · CustomTkinter |
  
 ### 📫 Conecta conmigo:
  
