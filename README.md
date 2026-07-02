@@ -7,16 +7,26 @@
 ## 📊 Mis estadísticas de GitHub:
  
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoRodriguez79&show_icons=true&theme=radical&hide_title=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoRodriguez79&theme=github_dark)
  
 ### 🔥 Racha de commits:
 ![GitHub Streak](https://streak-stats.demolab.com?user=GustavoRodriguez79&theme=radical&hide_border=true)
  
 ### 📈 Actividad:
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoRodriguez79&theme=react-dark)
- 
-### 🚀 Lenguajes más usados:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRodriguez79&layout=compact&theme=dark&cache_seconds=1)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoRodriguez79&theme=react-dark&cache_seconds=1)
+
+### 🚀 Lenguajes
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoRodriguez79&theme=github_dark&cache_seconds=1)
+
+### 💻 Lenguaje más utilizado en commits
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustavoRodriguez79&theme=github_dark&cache_seconds=1)
+
+### ⏰ Productividad
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoRodriguez79&theme=github_dark&utcOffset=-3)
+
+### 📋 Resumen del perfil
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoRodriguez79&theme=github_dark&cache_seconds=1)
+
  
 ### 🔧 Stack Tecnológico:
  
